@@ -17,38 +17,38 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
 
 - [Occam's Razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
 
-> Among competing hypotheses that predict equally well, the one with the fewest assumptions should be selected
+  > Among competing hypotheses that predict equally well, the one with the fewest assumptions should be selected
 
-For each accepted explanation of a phenomenon, there is always an infinite number
-of possible and more complex alternatives, but simpler theories are more preferable
-because they are easily testable. This is a line of reasoning often used in daily life.
+  For each accepted explanation of a phenomenon, there is always an infinite number
+  of possible and more complex alternatives, but simpler theories are more preferable
+  because they are easily testable. This is a line of reasoning often used in daily life.
 
-[R: ucr.edu](http://math.ucr.edu/home/baez/physics/General/occam.html)
+  [R: ucr.edu](http://math.ucr.edu/home/baez/physics/General/occam.html)
 
-[R: howstuffworks.com](http://science.howstuffworks.com/innovation/scientific-experiments/occams-razor.htm)
+  [R: howstuffworks.com](http://science.howstuffworks.com/innovation/scientific-experiments/occams-razor.htm)
 
 - [Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor)
 
-> Never attribute to malice that which can be adequately explained by stupidity.
+  > Never attribute to malice that which can be adequately explained by stupidity.
 
-A special case of Occam's razor, the history of this aphorism is controversial,
-but the applications are endless. [Miscommunications are often attributed](https://github.com/sindresorhus/ama/issues/48#issuecomment-118540912)
-to this aphorism in Open Source Projects.
+  A special case of Occam's razor, the history of this aphorism is controversial,
+  but the applications are endless. [Miscommunications are often attributed](https://github.com/sindresorhus/ama/issues/48#issuecomment-118540912)
+  to this aphorism in Open Source Projects.
 
-[R: jargon, node](http://www.jargon.net/jargonfile/h/HanlonsRazor.html)
+  [R: jargon, node](http://www.jargon.net/jargonfile/h/HanlonsRazor.html)
 
-[R: rationalwiki.org](http://rationalwiki.org/wiki/Hanlon's_razor)
+  [R: rationalwiki.org](http://rationalwiki.org/wiki/Hanlon's_razor)
 
 - [Murphy's Law](https://en.wikipedia.org/wiki/Murphy%27s_law)
 
-> If anything can go wrong -- it will.
+  > If anything can go wrong -- it will.
 
-People most often relate with `If there is a worse time for something to go wrong,
-it will happen then.`, especially after the dawn of mobile communication (no coverage
-right when you need it most) and the Internet (no connectivity, when you have to send
-that one life-changing email.)
+  People most often relate with `If there is a worse time for something to go wrong,
+  it will happen then.`, especially after the dawn of mobile communication (no coverage
+  right when you need it most) and the Internet (no connectivity, when you have to send
+  that one life-changing email.)
 
-[R: Ultimate collections of Murphy's Laws](http://murphyslaws.net/)
+  [R: Ultimate collections of Murphy's Laws](http://murphyslaws.net/)
 
 ***
 
@@ -56,33 +56,33 @@ that one life-changing email.)
 
 - [Stockholm Syndrome](https://en.wikipedia.org/wiki/Stockholm_syndrome)
 
-> When the victim mistakes a lack of abuse as an act of kindness by the captor.
+  > When the victim mistakes a lack of abuse as an act of kindness by the captor.
 
-Traumatic bonding that is most common in kidnapping situations, where the hostages
-express sympathy towards the captor, to the point of defending the captors. It may be
-attributed to the natural selection process that let our hunter-gatherer ancestors
-solve adaptive problems.
+  Traumatic bonding that is most common in kidnapping situations, where the hostages
+  express sympathy towards the captor, to the point of defending the captors. It may be
+  attributed to the natural selection process that let our hunter-gatherer ancestors
+  solve adaptive problems.
 
-[R: bbc.com](http://www.bbc.com/news/magazine-22447726)
+  [R: bbc.com](http://www.bbc.com/news/magazine-22447726)
 
-[Origin: Norrmalmstorg robbery
-](https://en.wikipedia.org/wiki/Norrmalmstorg_robbery)
+  [Origin: Norrmalmstorg robbery
+  ](https://en.wikipedia.org/wiki/Norrmalmstorg_robbery)
 
-[R: Societal Stockholm Syndrom](http://web2.iadfw.net/ktrig246/out_of_cave/sss.html)
+  [R: Societal Stockholm Syndrom](http://web2.iadfw.net/ktrig246/out_of_cave/sss.html)
 
-[R: howstuffworks.com](http://health.howstuffworks.com/mental-health/mental-disorders/stockholm-syndrome.htm)
+  [R: howstuffworks.com](http://health.howstuffworks.com/mental-health/mental-disorders/stockholm-syndrome.htm)
 
 - [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) [DKE]
 
-> When unskilled individuals mistakenly assess their abilty to be much higher than is accurate
+  > When unskilled individuals mistakenly assess their abilty to be much higher than is accurate
 
-![Imgur](http://i.imgur.com/WqjbjIo.jpg?1)
+  ![Imgur](http://i.imgur.com/WqjbjIo.jpg?1)
 
-[R: Dunning Kruger effect in Software Development](http://www.iainjmitchell.com/blog/dunning-kruger/)
+  [R: Dunning Kruger effect in Software Development](http://www.iainjmitchell.com/blog/dunning-kruger/)
 
-[R: Lessons learnt](http://theness.com/neurologicablog/index.php/lessons-from-dunning-kruger/)
+  [R: Lessons learnt](http://theness.com/neurologicablog/index.php/lessons-from-dunning-kruger/)
 
-[R: What DKE is and isn't](http://www.talyarkoni.org/blog/2010/07/07/what-the-dunning-kruger-effect-is-and-isnt/)
+  [R: What DKE is and isn't](http://www.talyarkoni.org/blog/2010/07/07/what-the-dunning-kruger-effect-is-and-isnt/)
 
 ***
 
