@@ -11,7 +11,12 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
 ## Table of Contents
 
 - [Aphorisms / Adages / Epigrams](#aphorisms--adages--epigrams)
+  - [Occam's Razor](#occams-razor)
+  - [Hanlon's Razor](#hanlons-razor)
+  - [Murphy's Law](#murphys-law)
 - [Psychological Syndromes](#psychological-syndromes)
+  - [Stockholm Syndrome](#stockholm-syndrome)
+  - [Dunning-Kruger Effect](#dunning-kruger-effect-dke)
 
 ## Aphorisms / Adages / Epigrams
 
