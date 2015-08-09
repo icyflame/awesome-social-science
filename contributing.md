@@ -13,13 +13,13 @@ Please ensure your pull request adheres to the following guidelines:
 ```md
 #### [Item Name](link-to-wikipedia)
 
-  > A one-line description of the item
+> A one-line description of the item
 
-  Succinct paragraph about the entry.
+Succinct paragraph about the entry.
 
-  [Reference Name 1](some-other-reference)
+[Reference Name 1](some-other-reference)
 
-  [Reference Name 2](some-other-reference-1)
+[Reference Name 2](some-other-reference-1)
 ```
 
 - **Reference Naming Guidelines**: If the article has a title that is related to the item
@@ -38,6 +38,7 @@ R: Title of the article
 - If the entry does not have a wikipedia page, then consider [writing one](https://en.wikipedia.org/wiki/Main_Page).
 - You may add atmost three references, in one line.
 - A **soft upper bound** on references is 6. (excluding WikiPedia)
-- If your entry consists of an image, upload the image to [Imgur](http://imgur.com)
+- If your entry consists of an image, put the image inside the `img/` directory,
+with the name of your entry.
 
 Thank you for your suggestions!
