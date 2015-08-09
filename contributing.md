@@ -33,7 +33,7 @@ If not, then the title of the article may be used.
 R: Title of the article
 ```
 )
-- You may shorten the name of the item to a suitable acronym for use in the item's entry. (Check [DKE](./readme.md#dunning-kruger-effect))
+- You may shorten the name of the item to a suitable acronym for use in the item's entry. (Check [DKE](https://github.com/icyflame/awesome-social-scienc#dunning-kruger-effect-dke))
 - Every entry must have atleast one reference apart from WikiPedia.
 - If the entry does not have a wikipedia page, then consider [writing one](https://en.wikipedia.org/wiki/Main_Page).
 - You may add atmost three references, in one line.
