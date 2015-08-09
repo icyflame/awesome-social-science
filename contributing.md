@@ -11,15 +11,15 @@ Please ensure your pull request adheres to the following guidelines:
 - Entries must be of this form :
 
 ```md
-- [Item Name](link-to-wikipedia)
+#### [Item Name](link-to-wikipedia)
 
-> A one-line description of the item
+  > A one-line description of the item
 
-Succinct paragraph about the entry.
+  Succinct paragraph about the entry.
 
-[Reference Name 1](some-other-reference)
+  [Reference Name 1](some-other-reference)
 
-[Reference Name 2](some-other-reference-1)
+  [Reference Name 2](some-other-reference-1)
 ```
 
 - **Reference Naming Guidelines**: If the article has a title that is related to the item

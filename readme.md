@@ -15,7 +15,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
 
 ## Aphorisms / Adages / Epigrams
 
-- [Occam's Razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
+#### [Occam's Razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
 
   > Among competing hypotheses that predict equally well, the one with the fewest assumptions should be selected
 
@@ -27,7 +27,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
 
   [R: howstuffworks.com](http://science.howstuffworks.com/innovation/scientific-experiments/occams-razor.htm)
 
-- [Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor)
+#### [Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor)
 
   > Never attribute to malice that which can be adequately explained by stupidity.
 
@@ -39,7 +39,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
 
   [R: rationalwiki.org](http://rationalwiki.org/wiki/Hanlon's_razor)
 
-- [Murphy's Law](https://en.wikipedia.org/wiki/Murphy%27s_law)
+#### [Murphy's Law](https://en.wikipedia.org/wiki/Murphy%27s_law)
 
   > If anything can go wrong -- it will.
 
@@ -54,7 +54,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
 
 ## Psychological Syndromes
 
-- [Stockholm Syndrome](https://en.wikipedia.org/wiki/Stockholm_syndrome)
+#### [Stockholm Syndrome](https://en.wikipedia.org/wiki/Stockholm_syndrome)
 
   > When the victim mistakes a lack of abuse as an act of kindness by the captor.
 
@@ -72,7 +72,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
 
   [R: howstuffworks.com](http://health.howstuffworks.com/mental-health/mental-disorders/stockholm-syndrome.htm)
 
-- [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) [DKE]
+#### [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) [DKE]
 
   > When unskilled individuals mistakenly assess their abilty to be much higher than is accurate
 
