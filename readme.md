@@ -14,6 +14,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Occam's Razor](#occams-razor)
   - [Hanlon's Razor](#hanlons-razor)
   - [Murphy's Law](#murphys-law)
+  - [Godwin's Law](#godwins-law)
 - [Psychological Syndromes](#psychological-syndromes)
   - [Stockholm Syndrome](#stockholm-syndrome)
   - [Dunning-Kruger Effect](#dunning-kruger-effect-dke)
@@ -54,6 +55,24 @@ right when you need it most) and the Internet (no connectivity, when you have to
 that one life-changing email.)
 
 [R: Ultimate collections of Murphy's Laws](http://murphyslaws.net/)
+
+#### [Godwin's Law](https://en.wikipedia.org/wiki/Godwin's_law)
+
+> As an online discussion grows longer, the probability of a comparison involving Nazis or Hitler approaches 1
+
+In many newsgroups, it is a tradition in which whoever mentions the Nazis automatically
+loses the debate that was going on, and the thread if finished there and then. Also, popularly
+referred to as `Playing the Hitler card`. 
+
+> It was difficult, after attempting a greater psychological understanding of why the Holocaust 
+> happened and how it was conducted, to tolerate the glib comparisons I encountered on the Internet 
+> (Usenet in those days) - Mike Godwin
+
+[R: Mike Godwin on 18 years of Godwin's law](http://jewcy.com/jewish-arts-and-culture/i_seem_be_verb_18_years_godwins_law)
+
+[R: slashdot.com, history and popular use](http://knowyourmeme.com/memes/godwins-law)
+
+[Bonus: an xkcd about this as well!](https://xkcd.com/261/)
 
 ***
 
