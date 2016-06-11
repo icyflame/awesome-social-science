@@ -18,6 +18,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
 - [Psychological Syndromes](#psychological-syndromes)
   - [Stockholm Syndrome](#stockholm-syndrome)
   - [Dunning-Kruger Effect](#dunning-kruger-effect-dke)
+	- [Pygmalion Effect](#pygmalian-effect)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -107,6 +108,20 @@ solve adaptive problems.
 [R: Lessons learnt](http://theness.com/neurologicablog/index.php/lessons-from-dunning-kruger/)
 
 [R: What DKE is and isn't](http://www.talyarkoni.org/blog/2010/07/07/what-the-dunning-kruger-effect-is-and-isnt/)
+
+#### [Pygmalion effect](https://en.wikipedia.org/wiki/Pygmalion_effect)
+
+> the phenomenon whereby higher expectations lead to an increase in performance
+
+The idea behind this effect is that if a leader expects more of a follower, then the follower tends to
+improve their performance. Studies of this effect in action are hard to conduct because they are generally
+in an artificial, manipulated setting. Also, there is an argument that often the perception of a follower
+by the leader directly or indirectly affect the expectations that said leader has from the follower. This
+effect was shown to exist in schools in the Rosenthal-Jacobson study.
+
+[R: hbr.org](https://hbr.org/2003/01/pygmalion-in-management)
+
+[R: krauthammer.com](http://www.krauthammer.com/articles/the-pygmalion-effect)
 
 ***
 
