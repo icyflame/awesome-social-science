@@ -18,7 +18,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
 - [Psychological Syndromes](#psychological-syndromes)
   - [Stockholm Syndrome](#stockholm-syndrome)
   - [Dunning-Kruger Effect](#dunning-kruger-effect-dke)
-	- [Pygmalion Effect](#pygmalian-effect)
+  - [Pygmalion Effect](#pygmalion-effect)
 
 ## Aphorisms / Adages / Epigrams
 
