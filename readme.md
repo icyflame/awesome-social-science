@@ -19,6 +19,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Stockholm Syndrome](#stockholm-syndrome)
   - [Dunning-Kruger Effect](#dunning-kruger-effect-dke)
   - [Pygmalion Effect](#pygmalion-effect)
+  - [Golem Effect](#golem-effect)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -122,6 +123,25 @@ effect was shown to exist in schools in the Rosenthal-Jacobson study.
 [R: hbr.org](https://hbr.org/2003/01/pygmalion-in-management)
 
 [R: krauthammer.com](http://www.krauthammer.com/articles/the-pygmalion-effect)
+
+#### [Golem Effect](https://en.wikipedia.org/wiki/Golem_effect)
+
+> The phenomenon where lower expectations placed upon individuals leads to poorer performance
+
+The Golem effect is the negative corrollary of the Pygmalion Effect: Supervisors
+with negative expectations will inadvertently produce behaviours that reduce the
+efficiency of their subordinates. This effect has been most rigorously studied
+in Classroom settings. Teachers treat students performing poorly with high
+negative bias, this in turn leads the students to perform poorly, reinforcing
+the teacher's belief. This is one of the most problematic consequences of Golem
+Effect in the Classroom. A few studies have also been made on the Golem effect
+in the workplace.
+
+[R:
+buzzle.com](http://www.buzzle.com/articles/psychology-behind-the-golem-effect.html)
+
+[R: Seimnal 1982 Paper on Golem
+Effect](http://psycnet.apa.org/journals/edu/74/4/459.pdf)
 
 ***
 
