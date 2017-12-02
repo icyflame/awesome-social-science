@@ -64,7 +64,7 @@ that one life-changing email.)
 > As an online discussion grows longer, the probability of a comparison involving Nazis or Hitler approaches 1
 
 In many newsgroups, it is a tradition in which whoever mentions the Nazis automatically
-loses the debate that was going on, and the thread if finished there and then. Also, popularly
+loses the debate that was going on, and the thread is finished there and then. Also, popularly
 referred to as `Playing the Hitler card`. 
 
 > It was difficult, after attempting a greater psychological understanding of why the Holocaust 
