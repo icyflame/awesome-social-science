@@ -154,7 +154,7 @@ Capgras Syndrome(a.k.a Capgras Delusion) is a psychiatric disorder in which a pe
 
 [R:healthline.com](https://www.healthline.com/health/capgras-syndrome)
 
-[R: 
+[R:psychnet-uk.com](http://www.psychnet-uk.com/x_new_site/DSM_IV/capgras_syndrome.html)
 
 ***
 
