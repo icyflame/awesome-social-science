@@ -20,6 +20,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Dunning-Kruger Effect](#dunning-kruger-effect-dke)
   - [Pygmalion Effect](#pygmalion-effect)
   - [Golem Effect](#golem-effect)
+  - [Capgras Syndrome](#capgras-syndrome)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -142,6 +143,18 @@ buzzle.com](http://www.buzzle.com/articles/psychology-behind-the-golem-effect.ht
 
 [R: Seimnal 1982 Paper on Golem
 Effect](http://psycnet.apa.org/journals/edu/74/4/459.pdf)
+
+#### [Capgras Syndrome](https://en.wikipedia.org/wiki/Capgras_delusion)
+
+> Delusion that an individual's closed ones have been replaced by a double.
+
+![image](./img/Capgras-Syndrome.png)
+
+Capgras Syndrome(a.k.a Capgras Delusion) is a psychiatric disorder in which a person holds a delusion that a friend, spouse, parent, or other close family member (or pet) has been replaced by an identical impostor. There is no definitive diagnosis available. 
+
+[R:healthline.com](https://www.healthline.com/health/capgras-syndrome)
+
+[R: 
 
 ***
 
