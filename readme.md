@@ -165,9 +165,9 @@ definitive diagnosis available.
 > People behave better or improve their productivity when under observation
 
 The Hawthorne effect (a.k.a Observation Bias) was first noticed at Hawthorne
-Works in Cicero, IL where the correlation between lighting conditions on
+Works in Cicero, IL where the correlation between lighting conditions and
 employee producitivty was studied. Critics who doubt that a correlation exists
-in reality argue that the Hawthorne effect is a variant of the demand effort.
+in reality argue that the Hawthorne effect is a variant of the demand effect.
 Richard Nisbett, a distinguished professor of social psychology, has described
 the Hawthorne effect as "a glorified anecdote", saying that "once you have got
 the anecdote, you can throw away the data."

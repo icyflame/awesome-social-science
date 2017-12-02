@@ -3,7 +3,6 @@
 Please ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
-- Make sure your list is useful before submitting. That implies it having enough content and every item a good succinct description.
 - Make an individual pull request for each suggestion.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
@@ -36,6 +35,8 @@ R: Title of the article
 - You may shorten the name of the item to a suitable acronym for use in the item's entry. (Check [DKE](https://github.com/icyflame/awesome-social-scienc#dunning-kruger-effect-dke))
 - Every entry must have atleast one reference apart from WikiPedia.
 - If the entry does not have a wikipedia page, then consider [writing one](https://en.wikipedia.org/wiki/Main_Page).
+- If the existence of a particular effect is popularly debated, then please
+    mention the views of the critics in the succinct paragraph about the item.
 - You may add atmost three references, in one line.
 - A **soft upper bound** on references is 6. (excluding WikiPedia)
 - If your entry consists of an image, put the image inside the `img/` directory,
