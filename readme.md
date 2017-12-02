@@ -21,6 +21,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Pygmalion Effect](#pygmalion-effect)
   - [Golem Effect](#golem-effect)
   - [Capgras Syndrome](#capgras-syndrome)
+  - [Hawthorne Effect](#hawthorne-effect)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -150,11 +151,31 @@ Effect](http://psycnet.apa.org/journals/edu/74/4/459.pdf)
 
 ![image](./img/Capgras-Syndrome.png)
 
-Capgras Syndrome(a.k.a Capgras Delusion) is a psychiatric disorder in which a person holds a delusion that a friend, spouse, parent, or other close family member (or pet) has been replaced by an identical impostor. There is no definitive diagnosis available. 
+Capgras Syndrome(a.k.a Capgras Delusion) is a psychiatric disorder in which a
+person holds a delusion that a friend, spouse, parent, or other close family
+member (or pet) has been replaced by an identical impostor. There is no
+definitive diagnosis available.
 
 [R:healthline.com](https://www.healthline.com/health/capgras-syndrome)
 
 [R:psychnet-uk.com](http://www.psychnet-uk.com/x_new_site/DSM_IV/capgras_syndrome.html)
+
+#### [Hawthorne Effect](https://en.wikipedia.org/wiki/Hawthorne_effect)
+
+> People behave better or improve their productivity when under observation
+
+The Hawthorne effect (a.k.a Observation Bias) was first noticed at Hawthorne
+Works in Cicero, IL where the correlation between lighting conditions on
+employee producitivty was studied. Critics who doubt that a correlation exists
+in reality argue that the Hawthorne effect is a variant of the demand effort.
+Richard Nisbett, a distinguished professor of social psychology, has described
+the Hawthorne effect as "a glorified anecdote", saying that "once you have got
+the anecdote, you can throw away the data."
+
+[R: explorable.com](https://explorable.com/hawthorne-effect)
+
+[R: verywell.com](https://www.verywell.com/what-is-the-hawthorne-effect-2795234)
+
 
 ***
 
