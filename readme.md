@@ -23,6 +23,8 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Capgras Syndrome](#capgras-syndrome)
   - [Hawthorne Effect](#hawthorne-effect)
   - [Placebo Effect](#placebo-effect)
+  - [Synesthesia](#synesthesia)
+  - [Bystander Effect](#bystander-effect)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -194,6 +196,42 @@ therapeutic encounter, with it's rituals, symbols, and interactions.
 [R: Placebo Effects in Medicine](http://www.nejm.org/doi/full/10.1056/NEJMp1504023)
 
 [R: betterhealth.vic.gov.au](https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/placebo-effect)
+
+#### [Synesthesia](https://en.wikipedia.org/wiki/Synesthesia)
+
+> When stimulation of one sense leads to involuntary experiences in another sense
+
+This neurological phenomenon occurs when stimulation of one sense leads to
+involuntary experiences in another sense or a "union of the senses" where for
+example taste and sound are joined together.  Some people experience color when
+they hear sounds or read words and may be able to answer a question like "What
+color is A?" Over 60 types of Synesthesia have been reported. Approximately 1 in
+2000 people are believed to have Synesthesia.
+
+[R: scientificamerican.com](https://www.scientificamerican.com/article/what-is-synesthesia)
+
+[R: apa.org](https://www.apa.org/monitor/mar01/synesthesia.aspx)
+
+#### [Bystander Effect](https://en.wikipedia.org/wiki/Bystander_effect)
+
+> Phenomenon in which individuals are less likely to offer help to a victim when
+> other people are present
+
+![bystander](./img/bystander-effect.jpg)
+
+This effect occurs when the presence of others discourages an individual from
+intervening in an emergency situation. When an emergency situation occurs,
+observers are more likely to take action if there are few or no other witnesses.
+Being part of a large crowd makes it so no single person has to take
+responsibility for an action. Knowing that the bystander effect exists
+consciously is thought to be enough to prevent it from happening when one is a
+bystander in a situation where a victim needs help. If you are the victim
+seeking help, singling out one person in the crowd and appealing to them for
+help is often recommended as the best strategy to get any required assistance.
+
+[R :verywell.com](https://www.verywell.com/the-bystander-effect-2795899)
+
+[R :thehindu.com](http://www.thehindu.com/opinion/op-ed/bystander-effect-psychology/article17545542.ece)
 
 ***
 
