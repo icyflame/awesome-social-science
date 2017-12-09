@@ -25,6 +25,8 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Placebo Effect](#placebo-effect)
   - [Synesthesia](#synesthesia)
   - [Bystander Effect](#bystander-effect)
+  - [Munchausen syndrome](#munchausen-syndrome)
+  - [Munchausen syndrome by proxy](#munchausen-syndrome-by-proxy)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -232,6 +234,47 @@ help is often recommended as the best strategy to get any required assistance.
 [R :verywell.com](https://www.verywell.com/the-bystander-effect-2795899)
 
 [R :thehindu.com](http://www.thehindu.com/opinion/op-ed/bystander-effect-psychology/article17545542.ece)
+
+#### [Munchausen
+syndrome](https://en.wikipedia.org/wiki/Factitious_disorder_imposed_on_self)
+
+> Person pretends to have a physical or mental illness in an attempt to get
+> seek attention
+
+![munchausen](./img/munchausen-syndrome.png)
+
+Munchausen's syndrome is a psychological and behavioural condition where someone
+pretends to be ill or induces symptoms of illness in themselves. Their main
+intention is to assume the "sick role" to have people care for them and be the
+centre of attention. People with this disorder are often willing to undergo
+painful and risky tests in order to get the sympathy and special attention given
+to people who are truly ill. People suffering from this syndrome suffer from
+severe emotional difficulties.
+
+[R: nhs.uk](https://www.nhs.uk/conditions/munchausens-syndrome/)
+
+[R: my.clevelandclinic.org](https://my.clevelandclinic.org/health/articles/munchausen-syndrome)
+
+
+#### [Munchausen syndrome by
+proxy](https://en.wikipedia.org/wiki/Factitious_disorder_imposed_on_another)
+
+> Person acts as if an individual he or she is caring for has an illness when
+> the person is not really sick.
+
+![munchausen-by-proxy](./img/munchausen-by-proxy.png)
+
+Munchausen by proxy syndrome is a relatively rare form of child abuse that
+involves the exaggeration or fabrication of illnesses or symptoms by a primary
+caretaker. The adult perpetrator lies about illness in another person under his
+or her care, usually a child under 6 years of age. The female antagonist of the
+book [Sharp Objects by Gillian
+Flynn](https://www.goodreads.com/book/show/18045891-sharp-objects) suffered from
+this disorder.
+
+[R: healthline.com](https://www.healthline.com/health/munchausen-syndrome-by-proxy)
+
+[R: medicinet.com](https://www.medicinenet.com/munchausen_syndrome_by_proxy/article.htm)
 
 ***
 
