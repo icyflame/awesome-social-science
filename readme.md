@@ -235,8 +235,7 @@ help is often recommended as the best strategy to get any required assistance.
 
 [R :thehindu.com](http://www.thehindu.com/opinion/op-ed/bystander-effect-psychology/article17545542.ece)
 
-#### [Munchausen
-syndrome](https://en.wikipedia.org/wiki/Factitious_disorder_imposed_on_self)
+#### [Munchausen syndrome](https://en.wikipedia.org/wiki/Factitious_disorder_imposed_on_self)
 
 > Person pretends to have a physical or mental illness in an attempt to get
 > seek attention
@@ -256,8 +255,7 @@ severe emotional difficulties.
 [R: my.clevelandclinic.org](https://my.clevelandclinic.org/health/articles/munchausen-syndrome)
 
 
-#### [Munchausen syndrome by
-proxy](https://en.wikipedia.org/wiki/Factitious_disorder_imposed_on_another)
+#### [Munchausen syndrome by proxy](https://en.wikipedia.org/wiki/Factitious_disorder_imposed_on_another)
 
 > Person acts as if an individual he or she is caring for has an illness when
 > the person is not really sick.
