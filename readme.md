@@ -22,6 +22,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Golem Effect](#golem-effect)
   - [Capgras Syndrome](#capgras-syndrome)
   - [Hawthorne Effect](#hawthorne-effect)
+  - [Fregoli Delusion](#fregoli-delusion)
   - [Placebo Effect](#placebo-effect)
   - [Synesthesia](#synesthesia)
   - [Bystander Effect](#bystander-effect)
@@ -71,10 +72,10 @@ that one life-changing email.)
 
 In many newsgroups, it is a tradition in which whoever mentions the Nazis automatically
 loses the debate that was going on, and the thread is finished there and then. Also, popularly
-referred to as `Playing the Hitler card`. 
+referred to as `Playing the Hitler card`.
 
-> It was difficult, after attempting a greater psychological understanding of why the Holocaust 
-> happened and how it was conducted, to tolerate the glib comparisons I encountered on the Internet 
+> It was difficult, after attempting a greater psychological understanding of why the Holocaust
+> happened and how it was conducted, to tolerate the glib comparisons I encountered on the Internet
 > (Usenet in those days) - Mike Godwin
 
 [R: Mike Godwin on 18 years of Godwin's law](http://jewcy.com/jewish-arts-and-culture/i_seem_be_verb_18_years_godwins_law)
@@ -180,6 +181,22 @@ the anecdote, you can throw away the data."
 [R: explorable.com](https://explorable.com/hawthorne-effect)
 
 [R: verywell.com](https://www.verywell.com/what-is-the-hawthorne-effect-2795234)
+
+#### [Fregoli Delusion](https://en.wikipedia.org/wiki/Fregoli_delusion)
+
+> Belief that different people are in fact the same!
+
+It is a rare disorder in which a person holds a delusional belief that different
+people are in fact a single person who changes appearance or is in disguise!
+The syndrome may be related to a brain lesion and is often of a paranoid nature,
+with the delusional person believing themselves persecuted by the person they
+believe is in disguise. This delusion is related to [Capgras
+delusion](#capgras-syndrome).  Psychiatrists believe it is the result of
+troubles with facial perception, which can be caused by traumatic brain injury.
+
+[R: delusionaldisorders.wordpress.com](https://delusionaldisorders.wordpress.com/2013/11/04/what-is-fregoli-delusion/)
+
+[R: glennmillermd.com](http://glennmillermd.com/the-fregoli-delusion/)
 
 #### [Placebo Effect](https://en.wikipedia.org/wiki/Placebo)
 
