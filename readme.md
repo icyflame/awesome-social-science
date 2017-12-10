@@ -28,6 +28,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Bystander Effect](#bystander-effect)
   - [Munchausen syndrome](#munchausen-syndrome)
   - [Munchausen syndrome by proxy](#munchausen-syndrome-by-proxy)
+  - [Zeigarnik Effect](#zeigarnik-effect)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -290,6 +291,26 @@ this disorder.
 [R: healthline.com](https://www.healthline.com/health/munchausen-syndrome-by-proxy)
 
 [R: medicinet.com](https://www.medicinenet.com/munchausen_syndrome_by_proxy/article.htm)
+
+#### [Zeigarnik Effect](https://en.wikipedia.org/wiki/Zeigarnik_effect)
+
+> People remember uncompleted or interrupted tasks better than completed ones!
+
+Psychologist Bluma Zeigarnik observed the effect of interruption on memory
+processing in 1927. Whilst studying at the University of Berlin, her professor,
+Kurt Lewin, had noted how waiters in a cafe seemed to remember incomplete tabs
+more efficiently than those that had been paid for and were complete.  Zeigarnik
+decided to test this hypothesis in an experimental setting, and published her
+findings in On Finished and Unfinished Tasks, 1927.  Zeigarnik’s initial
+findings revealed that participants were able to recall details of interrupted
+tasks around 90% better than those that they had been able to complete
+undisturbed.
+
+[R: spring.org.uk](http://www.spring.org.uk/2011/02/the-zeigarnik-effect.php)
+
+[R: goodtherapy.org](https://www.goodtherapy.org/blog/psychpedia/zeigarnik-effect)
+
+[On Finished and Unfinished Tasks (Bluma Zeigarnik, 1927)](http://archive.is/rZC00)
 
 ***
 
