@@ -29,6 +29,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Munchausen syndrome](#munchausen-syndrome)
   - [Munchausen syndrome by proxy](#munchausen-syndrome-by-proxy)
   - [Zeigarnik Effect](#zeigarnik-effect)
+  - [Mere-exposure Effect](#mere-exposure-effect)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -311,6 +312,25 @@ undisturbed.
 [R: goodtherapy.org](https://www.goodtherapy.org/blog/psychpedia/zeigarnik-effect)
 
 [On Finished and Unfinished Tasks (Bluma Zeigarnik, 1927)](http://archive.is/rZC00)
+
+#### [Mere-exposure Effect](https://en.wikipedia.org/wiki/Mere-exposure_effect)
+ 
+> Repeated exposure of something leads to a more positive feeling about it
+
+The mere-exposure effect is a psychological phenomenon by which people tend to
+develop a preference for things merely because they are familiar with them. In
+social psychology, this effect is sometimes called the familiarity principle. In
+studies of interpersonal attraction, the more often a person is seen by someone,
+the more pleasing and likeable that person appears to be. Another application is
+in seen in concerts where the crowd is more excited to listen to the cover of a
+popular song or an older song of the performing artist, as compared to a new,
+unheard one. Yet another application is related to advertising, where customers
+are more likely to buy a product that they have seen advertised several times
+before as compared to a product that they haven't ever seen before.
+
+[R: socialpsychonline.com](http://socialpsychonline.com/2016/03/the-mere-exposure-effect/)
+
+[R: psychologytoday.com](https://www.psychologytoday.com/blog/ulterior-motives/200811/know-me-is-me-i-mere-exposure)
 
 ***
 
