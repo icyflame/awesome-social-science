@@ -31,6 +31,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Munchausen syndrome by proxy](#munchausen-syndrome-by-proxy)
   - [Zeigarnik Effect](#zeigarnik-effect)
   - [Mere-exposure Effect](#mere-exposure-effect)
+  - [Cotard Delusion](#cotard-delusion)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -346,6 +347,23 @@ before as compared to a product that they haven't ever seen before.
 
 [R: psychologytoday.com](https://www.psychologytoday.com/blog/ulterior-motives/200811/know-me-is-me-i-mere-exposure)
 
+#### [Cotard Delusion](https://en.wikipedia.org/wiki/Cotard_delusion)
+
+> A rare mental disorder where the patient thinks they are dead or are missing some organs.
+
+This delusion, a.k.a the Walking Corpse Syndrome, is a rare mental disorder in
+which a person mistakenly believes that they are dead, do not exist or are
+putrefying.  Patients claim that they do not have internal organs or blood. The
+illness can be simply described as the denial of self-existence. Some patients
+may have delusions of immortality. The Cotard delusion withdraws the afflicted
+person from other people due to the neglect of their personal hygiene and
+physical health. The delusion of negation of self prevents the patient from
+making sense of external reality, which then produces a distorted view of the
+external world.
+
+[R: thesun.co.uk](https://www.thesun.co.uk/living/2303771/what-is-cotards-delusion-what-are-the-symptoms-and-why-is-it-called-walking-corpse-syndrome/)
+
+[R: medigoo.com](https://www.medigoo.com/articles/cotards-delusion/)
 ***
 
 ## License
