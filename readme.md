@@ -32,6 +32,8 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Zeigarnik Effect](#zeigarnik-effect)
   - [Mere-exposure Effect](#mere-exposure-effect)
   - [Cotard Delusion](#cotard-delusion)
+  - [Trichotillomania](#trichotillomania)
+
 
 ## Aphorisms / Adages / Epigrams
 
@@ -364,6 +366,19 @@ external world.
 [R: thesun.co.uk](https://www.thesun.co.uk/living/2303771/what-is-cotards-delusion-what-are-the-symptoms-and-why-is-it-called-walking-corpse-syndrome/)
 
 [R: medigoo.com](https://www.medigoo.com/articles/cotards-delusion/)
+
+#### [Trichotillomania](https://en.wikipedia.org/wiki/Trichotillomania)
+
+> This impulse disorder causes the patient to pull his/her hair to the extent of even hair loss due to a certain urge.
+
+It is often caused by post-traumatic stress disorder or obsessive-compulsive disorder. A study has 
+ identified some gene mutations that increase the vulnerabilities. Treatment includes Habit Reversal Training
+where the patient is trained to recognize this abnormal impulse. The condition may also occur in early childhood.
+
+[R: National Health Service ](https://www.nhs.uk/conditions/trichotillomania/)
+
+[R: Kid's Health](http://kidshealth.org/en/teens/trichotillomania.html)
+
 ***
 
 ## License
