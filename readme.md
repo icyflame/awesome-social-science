@@ -34,7 +34,6 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Cotard Delusion](#cotard-delusion)
   - [Trichotillomania](#trichotillomania)
 
-
 ## Aphorisms / Adages / Epigrams
 
 #### [Occam's Razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
@@ -369,11 +368,13 @@ external world.
 
 #### [Trichotillomania](https://en.wikipedia.org/wiki/Trichotillomania)
 
-> This impulse disorder causes the patient to pull his/her hair to the extent of even hair loss due to a certain urge.
+> This disorder causes an urge in patient to pull their hair out
 
-It is often caused by post-traumatic stress disorder or obsessive-compulsive disorder. A study has 
- identified some gene mutations that increase the vulnerabilities. Treatment includes Habit Reversal Training
-where the patient is trained to recognize this abnormal impulse. The condition may also occur in early childhood.
+It is often caused by post-traumatic stress disorder or obsessive-compulsive
+disorder. A study has identified some gene mutations that increase the
+vulnerabilities. Treatment includes Habit Reversal Training where the patient is
+trained to recognize this abnormal impulse. The condition may also occur in
+early childhood.
 
 [R: National Health Service ](https://www.nhs.uk/conditions/trichotillomania/)
 
