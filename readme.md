@@ -33,6 +33,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Mere-exposure Effect](#mere-exposure-effect)
   - [Cotard Delusion](#cotard-delusion)
   - [Trichotillomania](#trichotillomania)
+  - [Schizophrenia](#schizophrenia)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -379,6 +380,23 @@ early childhood.
 [R: National Health Service ](https://www.nhs.uk/conditions/trichotillomania/)
 
 [R: Kid's Health](http://kidshealth.org/en/teens/trichotillomania.html)
+
+#### [Schizophrenia](https://en.wikipedia.org/wiki/Schizophrenia)
+
+> Psychological disorder characterized by symptoms of lack of contact with reality
+
+It was coined in 1910 by the Swiss psychiatrist Paul Eugen Bleuler derived from
+the Greek words schizo (split) and phren (mind). An illness closely resembling
+schizophrenia can be found in an ancient Egyptian medical text, dating back to
+1550 BC. It causes a disconnection between what a person perceives as reality
+and what truly is reality. This mental gap can be extremely confusing,
+upsetting, and causes intense psychological distress to the patient.
+
+[R: nihm.gov](https://www.nimh.nih.gov/health/topics/schizophrenia/index.shtml)
+
+[R: rethink.org](https://www.rethink.org/diagnosis-treatment/conditions/schizophrenia)
+
+[R: mentalhealthamerica.net](http://www.mentalhealthamerica.net/conditions/schizophrenia)
 
 ***
 
