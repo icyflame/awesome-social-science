@@ -34,6 +34,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Cotard Delusion](#cotard-delusion)
   - [Trichotillomania](#trichotillomania)
   - [Schizophrenia](#schizophrenia)
+  - [Borderline Personality Disorder](#borderline-personality-disorder-bpd)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -397,6 +398,23 @@ upsetting, and causes intense psychological distress to the patient.
 [R: rethink.org](https://www.rethink.org/diagnosis-treatment/conditions/schizophrenia)
 
 [R: mentalhealthamerica.net](http://www.mentalhealthamerica.net/conditions/schizophrenia)
+
+#### [Borderline Personality Disorder](https://en.wikipedia.org/wiki/Borderline_personality_disorder) [BPD]
+
+> Long pattern of abnormal behaviour including varying moods and self-image
+
+People suffering from this disorder can experience anger, depression and anxiety
+which may last from a few hours to days. People may experience unstable
+relationships, indulge in risky activities, isolate themselves, feel
+diassociation or engage in self-harming behaviours. The cause for BPD is
+unknown. Although, studies show that many individuals with BPD report abuse,
+neglect and separation as young children. This syndrome can be treated using
+techniques such as Dialectical Behaviour Therapy and Cognitive Behaviour
+Therapy.
+
+[R: National Institute of Mental Health](https://www.nimh.nih.gov/health/topics/borderline-personality-disorder/index.shtml)
+
+[R: psycom.net](https://www.psycom.net/depression.central.borderline.html)
 
 ***
 
