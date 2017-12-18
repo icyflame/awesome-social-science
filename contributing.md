@@ -14,7 +14,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 > A one-line description of the item
 
-Succinct paragraph about the entry.
+Succinct paragraph about the entry. (wrapped at 80 columns)
 
 [Reference Name 1](some-other-reference)
 
@@ -40,7 +40,7 @@ R: Title of the article
 - You may add atmost three references, in one line.
 - A **soft upper bound** on references is 6. (excluding WikiPedia)
 - If your entry consists of an image, put the image inside the `img/` directory,
-with the name of your entry.
+    with the name of your entry.
 - Thanks a lot to [@sindresorhus](https://github.com/sindresorhus) for the basic idea, and the help [selecting the name of this list](https://github.com/sindresorhus/awesome/issues/229) and [a tweet as well](https://twitter.com/_icyflame/status/630298201329786880)
 
 Thank you for your suggestions!
