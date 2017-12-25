@@ -36,6 +36,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Schizophrenia](#schizophrenia)
   - [Borderline Personality Disorder](#borderline-personality-disorder-bpd)
   - [Prosopagnosia](#prosopagnosia)
+  - [Body Dysmorphic Disorder](#body-dysmorphic-disorder)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -430,6 +431,20 @@ context. There have been no treatment methods discovered as of now.
 [R: National Health Service](https://www.nhs.uk/conditions/face-blindness/)
 
 [R: National Institute of Neurological Disorders and Stroke](https://www.ninds.nih.gov/Disorders/All-Disorders/Prosopagnosia-Information-Page) 
+
+#### [Body Dysmorphic Disorder](https://en.wikipedia.org/wiki/Body_dysmorphic_disorder)
+
+> A mental illness involving obsessive focus on a perceived flaw in appearance
+
+Body dysmorphic disorder (BDD) is a mental disorder characterized by the 
+obsessive idea that some aspect of one's own appearance is severely flawed 
+and warrants exceptional measures to hide or fix it. In BDD's delusional 
+variant, the flaw is imagined. If the flaw is actual, its importance is severely 
+exaggerated.
+
+[R: adaa.org](https://adaa.org/understanding-anxiety/related-illnesses/other-related-conditions/body-dysmorphic-disorder-bdd)
+
+[R: nhs.uk](https://www.nhs.uk/conditions/body-dysmorphia/)
 
 ***
 
