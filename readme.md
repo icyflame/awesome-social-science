@@ -38,6 +38,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Prosopagnosia](#prosopagnosia)
   - [Body Dysmorphic Disorder](#body-dysmorphic-disorder)
   - [Ganser syndrome](#ganser-syndrome)
+  - [Acute Stress Disorder](#acute-stress-disorder)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -463,6 +464,20 @@ to confuse researchers.
 [R: emedicine.medscape.com](https://emedicine.medscape.com/article/287390-overview)
 
 [R: minddisorders.com](http://www.minddisorders.com/Flu-Inv/Ganser-s-syndrome.html)
+
+#### [Acute Stress Disorder](https://en.wikipedia.org/wiki/Acute_stress_reaction)
+
+> As a response to the traumatic event, the individual develops dissociative symptoms
+
+Acute stress reaction (also called acute stress disorder, psychological shock, 
+mental shock, or simply shock) is a psychological condition arising in response 
+to a terrifying or traumatic event, or witnessing a traumatic event that induces 
+a strong emotional response within the individual. It should not be confused with
+the unrelated circulatory condition of shock/hypoperfusion. 
+
+[R: psychologytoday.com](https://www.psychologytoday.com/conditions/acute-stress-disorder)
+
+[R: healthline.com](https://www.healthline.com/health/acute-stress-disorder)
 
 ***
 
