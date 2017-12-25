@@ -38,6 +38,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Prosopagnosia](#prosopagnosia)
   - [Body Dysmorphic Disorder](#body-dysmorphic-disorder)
   - [Ganser syndrome](#ganser-syndrome)
+  - [Multiple Personality Disorder](#multiple-personality-disorder)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -463,6 +464,20 @@ to confuse researchers.
 [R: emedicine.medscape.com](https://emedicine.medscape.com/article/287390-overview)
 
 [R: minddisorders.com](http://www.minddisorders.com/Flu-Inv/Ganser-s-syndrome.html)
+
+#### [Multiple Personality Disorder](https://en.wikipedia.org/wiki/Dissociative_identity_disorder)
+
+> A disorder characterised by the presence of two or more distinct personality states
+
+Dissociative identity disorder (DID), also known as multiple personality disorder,
+is a mental disorder characterized by at least two distinct and relatively enduring
+identities or dissociated personalities. These states alternately show in a person's 
+behavior, accompanied by memory impairment for important information not explained 
+by ordinary forgetfulness.
+
+[R: Psychology Today](https://www.psychologytoday.com/conditions/dissociative-identity-disorder-multiple-personality-disorder)
+
+[R: psycom.net](https://www.psycom.net/mchugh.html)
 
 ***
 
