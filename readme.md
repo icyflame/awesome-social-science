@@ -37,6 +37,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Borderline Personality Disorder](#borderline-personality-disorder-bpd)
   - [Prosopagnosia](#prosopagnosia)
   - [Body Dysmorphic Disorder](#body-dysmorphic-disorder)
+  - [Ganser syndrome](#ganser-syndrome)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -445,6 +446,23 @@ exaggerated.
 [R: adaa.org](https://adaa.org/understanding-anxiety/related-illnesses/other-related-conditions/body-dysmorphic-disorder-bdd)
 
 [R: nhs.uk](https://www.nhs.uk/conditions/body-dysmorphia/)
+
+#### [Ganser syndrome](https://en.wikipedia.org/wiki/Ganser_syndrome)
+
+> Patient responds to questions with an incorrect answer
+
+Ganser syndrome is a rare dissociative disorder previously classified as a 
+factitious disorder. It is characterized by nonsensical or wrong answers to
+questions or doing things incorrectly, other dissociative symptoms such as fugue, 
+amnesia or conversion disorder, often with visual pseudohallucinations and a 
+decreased state of consciousness. This syndrome is still shrouded in mystery,
+owing mainly to the difficulty in conducting objective research. A patient might
+deliberately give odd approximate answers to a series of questions in an effort
+to confuse researchers.
+
+[R: emedicine.medscape.com](https://emedicine.medscape.com/article/287390-overview)
+
+[R: minddisorders.com](http://www.minddisorders.com/Flu-Inv/Ganser-s-syndrome.html)
 
 ***
 
