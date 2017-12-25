@@ -39,6 +39,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Body Dysmorphic Disorder](#body-dysmorphic-disorder)
   - [Ganser syndrome](#ganser-syndrome)
   - [Acute Stress Disorder](#acute-stress-disorder)
+  - [Hypochondria](#hypochondria)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -478,6 +479,25 @@ the unrelated circulatory condition of shock/hypoperfusion.
 [R: psychologytoday.com](https://www.psychologytoday.com/conditions/acute-stress-disorder)
 
 [R: healthline.com](https://www.healthline.com/health/acute-stress-disorder)
+
+#### [Hypochondria](https://en.wikipedia.org/wiki/Hypochondriasis)
+
+> Obsession with the idea of having a serious but undiagnosed medical condition
+
+Hypochondriasis or hypochondria is a condition in which a person is inordinately
+worried about having a serious illness.  It has been claimed that this
+debilitating condition results from an inaccurate perception of the condition of
+body or mind despite the absence of an actual medical diagnosis. Hypochondriacs
+demand more tests at a time when physicians are under pressure to curtail
+unnecessary procedures -- and they move among multiple providers, making it
+difficult to manage their care. As a group, hypochondriacs cost billions of
+dollars a year in unnecessary medical tests and treatments that are many times
+not borne by the individual, but by all the people whose insurance premiums rise
+because of these bills.
+
+[R: psychologytoday.com](https://www.psychologytoday.com/blog/life-after-50/201703/hypochondria)
+
+[R: medicalnewstoday.com](https://www.medicalnewstoday.com/articles/9983.php)
 
 ***
 
