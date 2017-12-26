@@ -477,7 +477,7 @@ by ordinary forgetfulness.
 
 [R: Psychology Today](https://www.psychologytoday.com/conditions/dissociative-identity-disorder-multiple-personality-disorder)
 
-[R: psycom.net](https://www.psycom.net/mchugh.html)
+[R: nami.org](https://www.nami.org/Learn-More/Mental-Health-Conditions/Dissociative-Disorders)
 
 ***
 
