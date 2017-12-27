@@ -40,6 +40,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Ganser syndrome](#ganser-syndrome)
   - [Acute Stress Disorder](#acute-stress-disorder)
   - [Hypochondria](#hypochondria)
+  - [Bipolar Disorder](#bipolar-disorder)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -498,6 +499,22 @@ because of these bills.
 [R: psychologytoday.com](https://www.psychologytoday.com/blog/life-after-50/201703/hypochondria)
 
 [R: medicalnewstoday.com](https://www.medicalnewstoday.com/articles/9983.php)
+
+
+#### [Bipolar Disorder](https://en.wikipedia.org/wiki/Bipolar_disorder)
+
+> This is characterised by extreme mood swings from depression to euphoria
+
+During a manic episode, people may feel excited, have lots of energy, increased
+activity, do risky things and can be agitated easily. During depressive episodes,
+they feel sad, down, hopeless, have decresed activity levels, trouble sleeping and 
+eating. Sometimes, a person with severe episodes of mania or depression also has 
+psychotic symptoms, such as hallucinations or delusions.
+
+[R: National Institute of Mental Health](https://www.nimh.nih.gov/health/topics/bipolar-disorder/index.shtml)
+
+[R: mentalhealthamerica.net](http://www.mentalhealthamerica.net/conditions/bipolar-disorder)
+
 
 ***
 
