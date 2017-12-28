@@ -40,6 +40,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Ganser syndrome](#ganser-syndrome)
   - [Acute Stress Disorder](#acute-stress-disorder)
   - [Hypochondria](#hypochondria)
+  - [Diogenes Syndrome](#diogenes-syndrome)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -498,6 +499,20 @@ because of these bills.
 [R: psychologytoday.com](https://www.psychologytoday.com/blog/life-after-50/201703/hypochondria)
 
 [R: medicalnewstoday.com](https://www.medicalnewstoday.com/articles/9983.php)
+
+
+#### [Diogenes Syndrome](https://en.wikipedia.org/wiki/Diogenes_syndrome)
+
+> Involves hoarding of garbage and severe self-neglect
+
+Diogenes Syndrome, also known as senile squalor syndrome or Piyushkin's Syndrome, is 
+named after the ancient Greek philosopher, Diogenes. It is characterised by abnormal 
+possessiveness, severe self-neglect, social withdrwal, apathy, distrust and refusal of 
+help. Diogenes Syndrome tends to occur among the elderly. 
+
+[R: medicalnewstoday.com](https://www.medicalnewstoday.com/articles/314595.php)
+
+[R: healthline.com](https://www.healthline.com/health/diogenes-syndrome#symptoms)
 
 ***
 
