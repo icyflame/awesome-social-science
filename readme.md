@@ -40,7 +40,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Ganser syndrome](#ganser-syndrome)
   - [Acute Stress Disorder](#acute-stress-disorder)
   - [Hypochondria](#hypochondria)
-  - [Attention Deficit Hyperactivity Disorder](#attention-deficit-hyperactivity-disorder)
+  - [Attention Deficit Hyperactivity Disorder](#attention-deficit-hyperactivity-disorder-adhd)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -500,23 +500,24 @@ because of these bills.
 
 [R: medicalnewstoday.com](https://www.medicalnewstoday.com/articles/9983.php)
 
-
 #### [Attention Deficit Hyperactivity Disorder](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder) [ADHD]
 
 > Neurodevelopmental disorder characterised by inattention and hyperactivity
 
-The people with this disorder have problem in paying attention, organising 
-activities, are easily easily distracted, constantly "on move", fidget, 
-and make impulsive decisions. For a person to receive a diagnosis of ADHD, 
-the symptoms of inattention and/or hyperactivity-impulsivity must be chronic 
-or long-lasting, impair the person’s functioning, and cause the person to 
-fall behind normal development for his or her age. Some conditions, such as 
-learning disabilities, anxiety disorder, conduct disorder, depression, and 
-substance abuse, are common in people with ADHD.
+The people with this disorder have problem in paying attention, organising
+activities, are easily distracted, constantly "on the move", fidget, and make
+impulsive decisions. For a person to receive a diagnosis of ADHD, the symptoms
+of inattention and/or hyperactivity-impulsivity must be chronic or long-lasting,
+impair the person's functioning, and cause the person to fall behind normal
+development for their age. Some conditions, such as learning disabilities,
+anxiety disorder, conduct disorder, depression, and substance abuse, are common
+in people with ADHD.
 
 [R: National Institute of Mental Health](https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd/index.shtml)
 
 [R: add.org](https://add.org/adhd-facts/)
+
+[R: cdc.gov](https://www.cdc.gov/ncbddd/adhd/index.html)
 
 
 ***
