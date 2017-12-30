@@ -41,6 +41,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Acute Stress Disorder](#acute-stress-disorder)
   - [Hypochondria](#hypochondria)
   - [Attention Deficit Hyperactivity Disorder](#attention-deficit-hyperactivity-disorder-adhd)
+  - [Autism Spectrum Disorder](#autism-spectrum-disorder-asd)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -519,6 +520,25 @@ in people with ADHD.
 
 [R: cdc.gov](https://www.cdc.gov/ncbddd/adhd/index.html)
 
+#### [Autism Spectrum Disorder](https://en.wikipedia.org/wiki/Autism) [ASD]
+
+> A serious developmental disorder that impairs the ability to communicate and interact
+
+Autism is a developmental disorder characterized by troubles with social
+interaction and communication. Often there is also restricted and repetitive
+behavior. Parents usually notice signs in the first two or three years of their
+child's life. These signs often develop gradually, though some children with
+autism reach their developmental milestones at a normal pace and then worsen.
+Autism is a wide-spectrum disorder. No two people suffering from ASD will
+exhibit the exact same symptoms. Although, some commonly found characterisitcs
+include: reduced social skills, lack of empathy, an aversion to physical contact
+with strangers, an aversion to loud noises and bright lighting.
+
+[R: medicalnewstoday.com](https://www.medicalnewstoday.com/info/autism)
+
+[R: autism.org.uk](http://www.autism.org.uk/about/what-is/asd.aspx)
+
+[R: nhs.uk](https://www.nhs.uk/conditions/autism/)
 
 ***
 
