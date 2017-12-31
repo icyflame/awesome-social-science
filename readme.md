@@ -42,6 +42,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Hypochondria](#hypochondria)
   - [Attention Deficit Hyperactivity Disorder](#attention-deficit-hyperactivity-disorder-adhd)
   - [Autism Spectrum Disorder](#autism-spectrum-disorder-asd)
+  - [Post Traumatic Stress Disorder](#post-traumatic-stress-disorder-ptsd)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -539,6 +540,32 @@ with strangers, an aversion to loud noises and bright lighting.
 [R: autism.org.uk](http://www.autism.org.uk/about/what-is/asd.aspx)
 
 [R: nhs.uk](https://www.nhs.uk/conditions/autism/)
+
+
+#### [Post Traumatic Stress Disorder](https://en.wikipedia.org/wiki/Posttraumatic_stress_disorder) [PTSD]
+
+> Mental disorder developed after a traumatic event in a person's life
+
+PTSD is a disorder that people develop after experiencing a life threatening or
+traumatic event. PTSD can happen to anyone and is not a sign of weakness.  To
+be diagnosed with PTSD, an adult must have all of the following for at least 1
+month: at least one re-experiencing symptom such as flashbacks or bad dreams,
+at least one avoidance symptom such as avoiding a place or thought, at least
+two arousal and reactivity symptoms such as feeling irritated or angry, and at
+least two cognition and mood symptoms such as negative thoughts and feelings.
+The risks of PTSD are increased if after a traumatic event, there is lack of
+social support or extra stress due to the loss of a loved one, loss of a job or
+home. The risks of PTSD can be reduced by seeking out a support group after a
+traumatic event, by having a positive coping strategy and by learning to feel
+good about one's own actions in the face of fear. Everyone who goes through a
+traumatic event will not develop PTSD, in fact, most will not. There are some
+events in the past, such as childhood trauma, which may make a person more
+susceptible to PTSD. Genetic reasons may also make some people more likely to
+develop PTSD than others.
+
+[R: National Institute of Mental Health](https://www.nimh.nih.gov/health/topics/post-traumatic-stress-disorder-ptsd/index.shtml)
+
+[R: ptsd.va.gov](https://www.ptsd.va.gov/public/PTSD-overview/basics/what-is-ptsd.asp)
 
 ***
 
