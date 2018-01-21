@@ -505,13 +505,15 @@ because of these bills.
 
 #### [Bipolar Disorder](https://en.wikipedia.org/wiki/Bipolar_disorder)
 
-> This is characterised by extreme mood swings from depression to euphoria
+> A disorder characterized by extreme mood swings, from depression to euphoria
 
 During a manic episode, people may feel excited, have lots of energy, increased
 activity, do risky things and can be agitated easily. During depressive episodes,
 they feel sad, down, hopeless, have decresed activity levels, trouble sleeping and 
 eating. Sometimes, a person with severe episodes of mania or depression also has 
-psychotic symptoms, such as hallucinations or delusions.
+psychotic symptoms, such as hallucinations or delusions. In the TV series 
+[Homeland](https://en.wikipedia.org/wiki/Homeland_(TV_series)) protagonist Carrie
+Mathison suffers from this disorder.
 
 [R: National Institute of Mental Health](https://www.nimh.nih.gov/health/topics/bipolar-disorder/index.shtml)
 
