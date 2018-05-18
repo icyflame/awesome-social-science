@@ -41,6 +41,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Multiple Personality Disorder](#multiple-personality-disorder)
   - [Acute Stress Disorder](#acute-stress-disorder)
   - [Hypochondria](#hypochondria)
+  - [Oppositional Defiant Disorder](#oppositional-defiant-disorder)
   - [Bipolar Disorder](#bipolar-disorder)
   - [Attention Deficit Hyperactivity Disorder](#attention-deficit-hyperactivity-disorder-adhd)
   - [Autism Spectrum Disorder](#autism-spectrum-disorder-asd)
@@ -517,6 +518,21 @@ because of these bills.
 [R: psychologytoday.com](https://www.psychologytoday.com/blog/life-after-50/201703/hypochondria)
 
 [R: medicalnewstoday.com](https://www.medicalnewstoday.com/articles/9983.php)
+
+#### [Oppositional Defiant Disorder](https://en.wikipedia.org/wiki/Oppositional_defiant_disorder) [ODD]
+
+> A pattern of irritable mood, aggressiveness and vindictiveness
+
+Children and adolescents with Oppositional Defiant Disorder tend to very quickly 
+lose their temper, are disobedient, apt to rebel against authorities and quick to 
+blame others. These impulses are acted out so often that they compromise the ability
+to get along with ohers. The refuse to cooperate even before knowing what is expected
+of them. Children with ODD often have  mood disorders like depression, anxiety disorders,
+or learning or communication disorders.
+
+[R: childmind.org](https://childmind.org/guide/oppositional-defiant-disorder/)
+
+[R: aacap.org](http://www.aacap.org/aacap/Families_and_Youth/Facts_for_Families/Facts_for_Families_Pages/Children_With_Oppositional_Defiant_Disorder_72.aspx)
 
 #### [Bipolar Disorder](https://en.wikipedia.org/wiki/Bipolar_disorder)
 
