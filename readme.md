@@ -500,19 +500,18 @@ because of these bills.
 
 [R: medicalnewstoday.com](https://www.medicalnewstoday.com/articles/9983.php)
 
-
 #### [Diogenes Syndrome](https://en.wikipedia.org/wiki/Diogenes_syndrome)
 
-> Involves hoarding of garbage and severe self-neglect
+> Involves excessive hoarding of garbage and severe self-neglect
 
-Diogenes Syndrome, also known as senile squalor syndrome or Piyushkin's Syndrome, is 
-named after the ancient Greek philosopher, Diogenes. It is characterised by abnormal 
-possessiveness, severe self-neglect, social withdrwal, apathy, distrust and refusal of 
-help. Diogenes Syndrome tends to occur among the elderly. 
+Diogenes syndrome is characterised by abnormal possessiveness, excessive hoarding, 
+severe self-neglect, social withdrwal, apathy, distrust and refusal of help and 
+dirty homes. Diogenes syndrome tends to occur among the elderly. It occurs in both 
+men and women. The syndrome is named after an ancient Greek philosopher
 
 [R: medicalnewstoday.com](https://www.medicalnewstoday.com/articles/314595.php)
 
-[R: healthline.com](https://www.healthline.com/health/diogenes-syndrome#symptoms)
+[R: healthline.com](https://www.healthline.com/health/diogenes-syndrome)
 
 ***
 
