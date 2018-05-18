@@ -41,6 +41,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Multiple Personality Disorder](#multiple-personality-disorder)
   - [Acute Stress Disorder](#acute-stress-disorder)
   - [Hypochondria](#hypochondria)
+  - [Diogenes Syndrome](#diogenes-syndrome)
   - [Oppositional Defiant Disorder](#oppositional-defiant-disorder)
   - [Bipolar Disorder](#bipolar-disorder)
   - [Attention Deficit Hyperactivity Disorder](#attention-deficit-hyperactivity-disorder-adhd)
@@ -518,6 +519,19 @@ because of these bills.
 [R: psychologytoday.com](https://www.psychologytoday.com/blog/life-after-50/201703/hypochondria)
 
 [R: medicalnewstoday.com](https://www.medicalnewstoday.com/articles/9983.php)
+
+#### [Diogenes Syndrome](https://en.wikipedia.org/wiki/Diogenes_syndrome)
+
+> Involves excessive hoarding of garbage and severe self-neglect
+
+Diogenes syndrome is characterised by abnormal possessiveness, excessive hoarding, 
+severe self-neglect, social withdrwal, apathy, distrust and refusal of help and 
+dirty homes. Diogenes syndrome tends to occur among the elderly. It occurs in both 
+men and women. The syndrome is named after an ancient Greek philosopher
+
+[R: medicalnewstoday.com](https://www.medicalnewstoday.com/articles/314595.php)
+
+[R: healthline.com](https://www.healthline.com/health/diogenes-syndrome)
 
 #### [Oppositional Defiant Disorder](https://en.wikipedia.org/wiki/Oppositional_defiant_disorder) [ODD]
 
