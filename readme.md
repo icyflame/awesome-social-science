@@ -39,6 +39,12 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Body Dysmorphic Disorder](#body-dysmorphic-disorder)
   - [Ganser syndrome](#ganser-syndrome)
   - [Multiple Personality Disorder](#multiple-personality-disorder)
+  - [Acute Stress Disorder](#acute-stress-disorder)
+  - [Hypochondria](#hypochondria)
+  - [Bipolar Disorder](#bipolar-disorder)
+  - [Attention Deficit Hyperactivity Disorder](#attention-deficit-hyperactivity-disorder-adhd)
+  - [Autism Spectrum Disorder](#autism-spectrum-disorder-asd)
+  - [Post Traumatic Stress Disorder](#post-traumatic-stress-disorder-ptsd)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -478,6 +484,120 @@ by ordinary forgetfulness.
 [R: Psychology Today](https://www.psychologytoday.com/conditions/dissociative-identity-disorder-multiple-personality-disorder)
 
 [R: nami.org](https://www.nami.org/Learn-More/Mental-Health-Conditions/Dissociative-Disorders)
+
+#### [Acute Stress Disorder](https://en.wikipedia.org/wiki/Acute_stress_reaction)
+
+> As a response to the traumatic event, the individual develops dissociative symptoms
+
+Acute stress reaction (also called acute stress disorder, psychological shock, 
+mental shock, or simply shock) is a psychological condition arising in response 
+to a terrifying or traumatic event, or witnessing a traumatic event that induces 
+a strong emotional response within the individual. It should not be confused with
+the unrelated circulatory condition of shock/hypoperfusion. 
+
+[R: psychologytoday.com](https://www.psychologytoday.com/conditions/acute-stress-disorder)
+
+[R: healthline.com](https://www.healthline.com/health/acute-stress-disorder)
+
+#### [Hypochondria](https://en.wikipedia.org/wiki/Hypochondriasis)
+
+> Obsession with the idea of having a serious but undiagnosed medical condition
+
+Hypochondriasis or hypochondria is a condition in which a person is inordinately
+worried about having a serious illness.  It has been claimed that this
+debilitating condition results from an inaccurate perception of the condition of
+body or mind despite the absence of an actual medical diagnosis. Hypochondriacs
+demand more tests at a time when physicians are under pressure to curtail
+unnecessary procedures -- and they move among multiple providers, making it
+difficult to manage their care. As a group, hypochondriacs cost billions of
+dollars a year in unnecessary medical tests and treatments that are many times
+not borne by the individual, but by all the people whose insurance premiums rise
+because of these bills.
+
+[R: psychologytoday.com](https://www.psychologytoday.com/blog/life-after-50/201703/hypochondria)
+
+[R: medicalnewstoday.com](https://www.medicalnewstoday.com/articles/9983.php)
+
+#### [Bipolar Disorder](https://en.wikipedia.org/wiki/Bipolar_disorder)
+
+> A disorder characterized by extreme mood swings, from depression to euphoria
+
+During a manic episode, people may feel excited, have lots of energy, increased
+activity, do risky things and can be agitated easily. During depressive episodes,
+they feel sad, down, hopeless, have decresed activity levels, trouble sleeping and 
+eating. Sometimes, a person with severe episodes of mania or depression also has 
+psychotic symptoms, such as hallucinations or delusions. In the TV series 
+[Homeland](https://en.wikipedia.org/wiki/Homeland_(TV_series)) protagonist Carrie
+Mathison suffers from this disorder.
+
+[R: National Institute of Mental Health](https://www.nimh.nih.gov/health/topics/bipolar-disorder/index.shtml)
+
+[R: mentalhealthamerica.net](http://www.mentalhealthamerica.net/conditions/bipolar-disorder)
+
+#### [Attention Deficit Hyperactivity Disorder](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder) [ADHD]
+
+> Neurodevelopmental disorder characterised by inattention and hyperactivity
+
+The people with this disorder have problem in paying attention, organising
+activities, are easily distracted, constantly "on the move", fidget, and make
+impulsive decisions. For a person to receive a diagnosis of ADHD, the symptoms
+of inattention and/or hyperactivity-impulsivity must be chronic or long-lasting,
+impair the person's functioning, and cause the person to fall behind normal
+development for their age. Some conditions, such as learning disabilities,
+anxiety disorder, conduct disorder, depression, and substance abuse, are common
+in people with ADHD.
+
+[R: National Institute of Mental Health](https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd/index.shtml)
+
+[R: add.org](https://add.org/adhd-facts/)
+
+[R: cdc.gov](https://www.cdc.gov/ncbddd/adhd/index.html)
+
+#### [Autism Spectrum Disorder](https://en.wikipedia.org/wiki/Autism) [ASD]
+
+> A serious developmental disorder that impairs the ability to communicate and interact
+
+Autism is a developmental disorder characterized by troubles with social
+interaction and communication. Often there is also restricted and repetitive
+behavior. Parents usually notice signs in the first two or three years of their
+child's life. These signs often develop gradually, though some children with
+autism reach their developmental milestones at a normal pace and then worsen.
+Autism is a wide-spectrum disorder. No two people suffering from ASD will
+exhibit the exact same symptoms. Although, some commonly found characterisitcs
+include: reduced social skills, lack of empathy, an aversion to physical contact
+with strangers, an aversion to loud noises and bright lighting.
+
+[R: medicalnewstoday.com](https://www.medicalnewstoday.com/info/autism)
+
+[R: autism.org.uk](http://www.autism.org.uk/about/what-is/asd.aspx)
+
+[R: nhs.uk](https://www.nhs.uk/conditions/autism/)
+
+
+#### [Post Traumatic Stress Disorder](https://en.wikipedia.org/wiki/Posttraumatic_stress_disorder) [PTSD]
+
+> Mental disorder developed after a traumatic event in a person's life
+
+PTSD is a disorder that people develop after experiencing a life threatening or
+traumatic event. PTSD can happen to anyone and is not a sign of weakness.  To
+be diagnosed with PTSD, an adult must have all of the following for at least 1
+month: at least one re-experiencing symptom such as flashbacks or bad dreams,
+at least one avoidance symptom such as avoiding a place or thought, at least
+two arousal and reactivity symptoms such as feeling irritated or angry, and at
+least two cognition and mood symptoms such as negative thoughts and feelings.
+The risks of PTSD are increased if after a traumatic event, there is lack of
+social support or extra stress due to the loss of a loved one, loss of a job or
+home. The risks of PTSD can be reduced by seeking out a support group after a
+traumatic event, by having a positive coping strategy and by learning to feel
+good about one's own actions in the face of fear. Everyone who goes through a
+traumatic event will not develop PTSD, in fact, most will not. There are some
+events in the past, such as childhood trauma, which may make a person more
+susceptible to PTSD. Genetic reasons may also make some people more likely to
+develop PTSD than others.
+
+[R: National Institute of Mental Health](https://www.nimh.nih.gov/health/topics/post-traumatic-stress-disorder-ptsd/index.shtml)
+
+[R: ptsd.va.gov](https://www.ptsd.va.gov/public/PTSD-overview/basics/what-is-ptsd.asp)
 
 ***
 
